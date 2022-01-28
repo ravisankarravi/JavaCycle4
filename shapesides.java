@@ -39,3 +39,9 @@ class shapesides
     h.numberofSides();
     }
 }
+/*
+Output
+Rectangle has 4 sides.
+Triangle has 3 sides.
+Hexagon has 6 sides.
+*/

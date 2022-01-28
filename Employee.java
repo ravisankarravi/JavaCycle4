@@ -59,3 +59,33 @@ class Manager extends Employee
 {
     String Department;
 }
+/*
+Output
+Enter the Details of Officer
+Enter the name : John
+Enter the Address :Hohn villa
+Enter the age :25
+Enter the Phone Number: 9495696969
+Enter the Salary : 25000
+Enter Specialization : Data Entry Analyst
+Enter the Details of Manager
+Enter the name : Thomas
+Enter the Address :Thomas Villa
+Enter the age :35
+Enter the Phone Number: 9498987578
+Enter the Salary : 50000
+Enter Department : Bank Manager
+
+ Details
+ Name : John
+ Address: Hohn villa
+ Age: 25
+ Ph No: 949569696925000.0
+Specialization : Data Entry Analyst
+
+ Details
+ Name : Thomas
+ Address: Thomas Villa
+ Age: 35
+ Ph No: 949898757850000.0
+Department : Bank Manager

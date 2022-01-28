@@ -41,3 +41,9 @@ class Emeng
      }
 
 }
+/*
+Outout
+Name of class is Employee.
+Salary of Employee is 10000
+Salary of Engineer is 20000
+*/

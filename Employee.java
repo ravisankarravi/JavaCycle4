@@ -78,7 +78,7 @@ Enter Department : Bank Manager
 
  Details
  Name : John
- Address: Hohn villa
+ Address: John villa
  Age: 25
  Ph No: 949569696925000.0
 Specialization : Data Entry Analyst
